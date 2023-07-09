@@ -9,7 +9,7 @@ To do this, simply open cmd.exe and type "pip install tk pillow". The necessary 
 You can either run the program by using your command line or by running it using an IDE like Pycharm. To use the program via the command line (e.g. cmd.exe), navigate to the 
 folder where the "Python-Mini-Canvas-Drawing-App.py" script is located by typing "cd [Absolute Path to folder in which Python-Mini-Canvas-Drawing-App.py is located]". 
 After you've done that, type "Python-Mini-Canvas-Drawing-App.py". You can now create colorful lines, polygons and bezier curves, drag the control points around, hide control points, 
-clear the canvas and more.
+clear the canvas, save your drawing and more.
 
 ### Showcase
 
