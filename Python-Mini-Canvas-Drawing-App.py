@@ -4,11 +4,11 @@ from enum import Enum
 from PIL import ImageGrab
 from tkinter import filedialog
 
-# global variables
+# Global variables
 global canvas, click_counter, clickCoordsArrayDict, draw_mode, currently_selected_item, polygon_dict, line_dict, \
     polygon_rect_dict, line_rect_dict, control_points_hidden, middle_mouse_down, bezier_rect_dict, bezier_dict, color_var, root
 
-# constants
+# Constants
 RECT_SIZE = 5  # Size of the control point rectangles
 RECT_COLOR = "white"  # Color of the control point rectangles
 BEZIER_SEGMENTS = 100  # Line segments to approximate the Bezier curve
