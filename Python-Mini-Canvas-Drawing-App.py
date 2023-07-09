@@ -18,7 +18,7 @@ ZOOM_FACTOR = 1.1  # Zoom factor for the mouse wheel
 def tkinter_setup():
     global canvas, color_var, root
 
-    # Initialize global variables (probably should have used classes from the get go)
+    # Initializes global variables (probably should have used classes from the get go)
     init_draw_mode()
     init_click_counter()
     init_click_coords_array_dict()
@@ -32,7 +32,7 @@ def tkinter_setup():
     init_bezier_dict()
     init_bezier_rect_dict()
 
-    # Initialize tkinter
+    # Initializes tkinter
     root = tkinter.Tk()
     root.attributes("-fullscreen", True, "-topmost", True)
     root.configure(background="white")
@@ -41,18 +41,18 @@ def tkinter_setup():
     root.geometry("1920x1080")
     root.resizable(False, False)
 
-    # Initialize the color dropdown menu
+    # Initializes the color dropdown menu
     color_var = tkinter.StringVar(root)
     color_var.set("white")  # default value
     color_options = ["white", "red", "green", "blue", "yellow", "purple", "orange", "black"]
     color_menu = tkinter.OptionMenu(root, color_var, *color_options)
     color_menu.pack(side="left", anchor="ne", expand=True, padx=10, pady=10)
 
-    # Initialize the save button
+    # Initializes the save button
     save_button = tkinter.Button(root, text="Save Image", command=save_image)
     save_button.pack(side="left", anchor="ne", expand=True, padx=10, pady=10)
 
-    # Initialize the mode buttons
+    # Initializes the mode buttons
     mode_button_frame = tkinter.Frame(root)
     mode_button_frame.pack(side="left", anchor="ne", expand=True, padx=10, pady=10)
 
