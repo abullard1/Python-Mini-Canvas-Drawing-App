@@ -14,7 +14,9 @@ After that, type "python Canvas-Drawing-App.py". You can now create lines, polyg
 
 <table>
   <tr>
-    <td><kbd> <img src="Canvas-Drawing-App Showcase 1.png" width="500" /> </kbd></td>
-    <td><kbd> <img src="Canvas-Drawing-App Showcase 2.png" width="500" /> </kbd></td>
+    <td><kbd> <img src="Canvas-Drawing-App Showcase 1.png" width="1000" /> </kbd></td>
+  </tr>
+    <tr>
+    <td><kbd> <img src="Canvas-Drawing-App Showcase 2.png" width="1000" /> </kbd></td>
   </tr>
 </table>
