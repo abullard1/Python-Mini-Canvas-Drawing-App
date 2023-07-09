@@ -8,7 +8,7 @@ using Python 3.10. Lower versions have not been tested and might or might not wo
 To do this, simply open cmd.exe and type "pip install tk pillow". The necessary packages will then be downloaded and installed.
 You can either run the program by using your command line or by running it using an IDE like Pycharm. To use the program via the command line (e.g. cmd.exe), navigate to the 
 folder where the "Canvas-Drawing-App.py" script is located by typing "cd [Absolute Path to folder in which Python-Mini-ImageProcessory.py is located]". 
-After that, type "python Canvas-Drawing-App.py". You can now create lines, polygons and bezier curves, drag the control points around, hide control points, clear the canvas and more.
+After you've done that, type "python Canvas-Drawing-App.py". You can now create lines, polygons and bezier curves, drag the control points around, hide control points, clear the canvas and more.
 
 ### Showcase
 
