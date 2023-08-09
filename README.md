@@ -3,7 +3,7 @@ A little Python Program which uses tkinter to draw lines, polygons and bezier cu
 It's not necessarily pretty but it works.
 
 ## Usage
-To use the program first mage sure that you have python installed. The easiest way to download python would be to download it from the Microsoft Store. The program was made
+To use the program first mage sure that you have python installed. The easiest way to download python would be to download it from the Microsoft Store if you're on WindowsOS. The program was made
 using Python 3.10. Lower versions have not been tested and might or might not work. Also make sure to have the python packages PIL (pillow) and tk (tkinter) installed.
 To do this, simply open cmd.exe and type "pip install tk pillow". The necessary packages will then be downloaded and installed.
 You can either run the program by using your command line or by running it using an IDE like Pycharm. To use the program via the command line (e.g. cmd.exe), navigate to the 
