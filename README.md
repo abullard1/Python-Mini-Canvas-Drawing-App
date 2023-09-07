@@ -16,7 +16,7 @@ clear the canvas, save your drawing and more.
   <tr>
     <td><kbd> <img src="Python-Mini-Canvas-Drawing-App Showcase 1.png" width="1000" /> </kbd></td>
   </tr>
-    <tr>
+  <tr>
     <td><kbd> <img src="Python-Mini-Canvas-Drawing-App Showcase 2.png" width="1000" /> </kbd></td>
   </tr>
 </table>
